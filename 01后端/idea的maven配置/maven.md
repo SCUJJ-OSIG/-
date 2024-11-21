@@ -1,3 +1,12 @@
+---
+title: first page in category1
+date: 2018/12/15
+tags:
+ - tag1
+categories:
+ - category1
+---
+
 # Idea的开始
 
 ## 1.maven安装两种方式

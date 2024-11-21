@@ -1,3 +1,12 @@
+---
+title: first page in category1
+date: 2018/12/15
+tags:
+ - tag1
+categories:
+ - category1
+---
+
 # 需要用到的依赖
 
 需要安装依赖： url base-64 @escook/request-miniprogram utf8

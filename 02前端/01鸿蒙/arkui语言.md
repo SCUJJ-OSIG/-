@@ -1,3 +1,12 @@
+---
+title: first page in category1
+date: 2018/12/15
+tags:
+ - tag1
+categories:
+ - category1
+---
+
 # 一:概念
 
 ArkTs在ts语言上拓展了声明试UI 状态管理等相应的能力,他就是ts的拓展
